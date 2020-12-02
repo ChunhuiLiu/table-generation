@@ -1,0 +1,13 @@
+.idea/
+result/
+pdf/*.pdf
+pdf/*.aux
+pdf/*.log
+picture/
+cooked/
+outline/
+table/
+table_line/
+pdf2img/
+out/
+__pycache__/
