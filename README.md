@@ -26,5 +26,6 @@
 - `cooked`: 保存从pdf中提取的文字框线图片等信息
 - `table`: 保存合并后的表格框线信息
 - `outline`: 保存表格外轮廓bounding box
+- `picture`: 保存从cooked文件夹中提取的原图
     
     
